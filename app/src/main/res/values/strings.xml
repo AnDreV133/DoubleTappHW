@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IntentBundle</string>
+    <string name="num">0</string>
+    <string name="calculate">Посчитать!</string>
 </resources>
